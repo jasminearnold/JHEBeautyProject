@@ -1,0 +1,36 @@
+.image3 {
+    float: left;
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    
+  }
+
+.aboutus {
+
+        float: right;
+        text-align: center;
+        font-display: center;
+        margin: 100px;
+}
+
+.btn2 {
+  padding: 15px 25px;
+  font-size: 15px;
+  font-family: lato;
+  text-align: center;
+  cursor: pointer;
+  color: black;
+  border: black 10px;
+  border-radius: 10px;
+}
+
+.btn2:hover {
+    background-color: rgb(252, 205, 231);
+}
